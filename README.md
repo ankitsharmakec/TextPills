@@ -1,4 +1,4 @@
-# Welcome to TextPills!
+
 
 TextPills is a web app developed using Django that offers various text analysis functions, including punctuation removal, capitalization, newline removal, space reduction, and character count. This repository is open to anyone interested in contributing to the project and improving the existing code.
 
